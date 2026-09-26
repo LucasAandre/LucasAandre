@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Hello, World! Me chamo Lucas André, tenho 26 anos e sou natural de São Paulo. Sou Engenheiro Eletricista por formação e atualmente atuo no mercado de trabalho como Product Manager. Sou apaixonado por tecnologia, desenvolvo sistemas em Python, C++ e JavaScript, trabalho com MySQL para gerenciamento de Banco de Dados e estou em busca de desenvolver ainda mais meus conhecimentos como dev.
+Hello, World! Me chamo Lucas André, tenho 27 anos e sou natural de São Paulo. Sou Engenheiro Eletricista por formação e atualmente atuo no mercado de trabalho como Product Manager. Sou apaixonado por tecnologia, desenvolvo sistemas em Python, C++ e JavaScript, trabalho com MySQL para gerenciamento de Banco de Dados e estou em busca de desenvolver ainda mais meus conhecimentos como dev.
 
 <p align="left">
     </a> 
