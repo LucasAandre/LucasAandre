@@ -92,14 +92,14 @@ Hello, World! Me chamo Lucas André, tenho 27 anos e sou natural de São Paulo. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="![LucasAandre GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAandre&show_icons=true&theme=dark)" 
+    src="https://github-readme-stats.vercel.app/api?username=LucasAandre&show_icons=true&theme=dark" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAandre&layout=compact&theme=dark)" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAandre&layout=compact&theme=dark" 
   />
 
 </p>
