@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Hello, World! Me chamo Lucas André, tenho 27 anos e sou natural de São Paulo. Sou Engenheiro Eletricista por formação e atualmente atuo no mercado de trabalho como Product Manager. Sou apaixonado por tecnologia, desenvolvo sistemas em Python, C++ e JavaScript, trabalho com MySQL para gerenciamento de Banco de Dados e estou em busca de desenvolver ainda mais meus conhecimentos como dev.
+Hello, World! Me chamo Lucas André, tenho 27 anos e sou natural de São Paulo. Sou Engenheiro Eletricista por formação e atualmente atuo no mercado de trabalho como Product Manager. Sou apaixonado por tecnologia, estudante de Análise e Desenvolvimento de Sistemas e desenvolvo sistemas em Python, C++ e JavaScript, trabalho com MySQL para gerenciamento de Banco de Dados e estou em busca de desenvolver ainda mais meus conhecimentos como dev.
 
 <p align="left">
     </a> 
@@ -92,14 +92,14 @@ Hello, World! Me chamo Lucas André, tenho 27 anos e sou natural de São Paulo. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasAandre&show_icons=true&theme=dark" 
+    src="https://github-readme-stats.shion.dev/api?username=LucasAandre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAandre&layout=compact&theme=dark" 
+      src="https://github-readme-stats.shion.dev/api/top-langs/?username=LucasAandre&layout=compact&theme=tokyonight&locale=pt-br" 
   />
 
 </p>
